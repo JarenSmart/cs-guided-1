@@ -12,4 +12,7 @@ Examples:
 
 def addition(a, b):
     # Your code here
-    a + b
+    return a + b
+
+
+print(addition(3, 2))
